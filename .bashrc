@@ -1,6 +1,11 @@
 # aliases
-alias gs="git status"
 alias ll="ls -lah"
+alias gb="git branch"
+alias gs="git status"
+alias gp="git push origin"
+alias gco="git commit -am"
+alias gch="git checkout"
+alias gchb="git checkout -b"
 
 # colors
 GREEN='\033[0;32m'

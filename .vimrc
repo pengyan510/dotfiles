@@ -78,3 +78,18 @@ inoremap <Left>  <ESC>:echoe "Use h"<CR>
 inoremap <Right> <ESC>:echoe "Use l"<CR>
 inoremap <Up>    <ESC>:echoe "Use k"<CR>
 inoremap <Down>  <ESC>:echoe "Use j"<CR>
+
+" Enable 256 colors
+set t_Co=256
+
+" NERDTree configuration
+nnoremap <C-n> :NERDTree<CR>
+let g:NERDTreeDirArrowExpandable = '>'
+let g:NERDTreeDirArrowCollapsible = '-'
+
+" Color scheme configuration
+colorscheme afterglow
+
+" Airline configuration
+let g:airline_theme='angr'
+set noshowmode
