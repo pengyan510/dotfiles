@@ -2,17 +2,17 @@
 	path = .vim/pack/vendor/start/auto-pairs
 	url = git@github.com:jiangmiao/auto-pairs.git
 [submodule "/home/pengyan/dev/dotfiles/.vim/pack/vendor/start/nerdtree"]
-	path = /home/pengyan/dev/dotfiles/.vim/pack/vendor/start/nerdtree
+	path = .vim/pack/vendor/start/nerdtree
 	url = git@github.com:preservim/nerdtree.git
 [submodule "/home/pengyan/dev/dotfiles/.vim/pack/vendor/start/vim-afterglow"]
-	path = /home/pengyan/dev/dotfiles/.vim/pack/vendor/start/vim-afterglow
+	path = .vim/pack/vendor/start/vim-afterglow
 	url = git@github.com:danilo-augusto/vim-afterglow.git
 [submodule "/home/pengyan/dev/dotfiles/.vim/pack/vendor/start/vim-airline"]
-	path = /home/pengyan/dev/dotfiles/.vim/pack/vendor/start/vim-airline
+	path = .vim/pack/vendor/start/vim-airline
 	url = git@github.com:vim-airline/vim-airline.git
 [submodule "/home/pengyan/dev/dotfiles/.vim/pack/vendor/start/vim-airline-themes"]
-	path = /home/pengyan/dev/dotfiles/.vim/pack/vendor/start/vim-airline-themes
+	path = .vim/pack/vendor/start/vim-airline-themes
 	url = git@github.com:vim-airline/vim-airline-themes.git
 [submodule "/home/pengyan/dev/dotfiles/.vim/pack/vendor/start/VimCompletesMe"]
-	path = /home/pengyan/dev/dotfiles/.vim/pack/vendor/start/VimCompletesMe
+	path = .vim/pack/vendor/start/VimCompletesMe
 	url = git@github.com:ackyshake/VimCompletesMe.git
