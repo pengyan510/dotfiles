@@ -79,6 +79,9 @@ inoremap <Right> <ESC>:echoe "Use l"<CR>
 inoremap <Up>    <ESC>:echoe "Use k"<CR>
 inoremap <Down>  <ESC>:echoe "Use j"<CR>
 
+" Enable auto indentation
+" set autoindent
+
 " Enable 256 colors
 set t_Co=256
 
