@@ -79,8 +79,12 @@ inoremap <Right> <ESC>:echoe "Use l"<CR>
 inoremap <Up>    <ESC>:echoe "Use k"<CR>
 inoremap <Down>  <ESC>:echoe "Use j"<CR>
 
-" Enable auto indentation
-" set autoindent
+" Enable four spaces indentation
+syntax enable
+set smartindent
+set tabstop=4
+set shiftwidth=4
+set expandtab
 
 " Enable 256 colors
 set t_Co=256
@@ -96,3 +100,6 @@ colorscheme afterglow
 " Airline configuration
 let g:airline_theme='angr'
 set noshowmode
+
+" delimitMate configuration
+let delimitMate_expand_cr=1

@@ -16,3 +16,6 @@
 [submodule "/home/pengyan/dev/dotfiles/.vim/pack/vendor/start/VimCompletesMe"]
 	path = .vim/pack/vendor/start/VimCompletesMe
 	url = git@github.com:ackyshake/VimCompletesMe.git
+[submodule ".vim/pack/vendor/start/delimitMate"]
+	path = .vim/pack/vendor/start/delimitMate
+	url = git@github.com:Raimondi/delimitMate.git
