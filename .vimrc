@@ -79,6 +79,9 @@ inoremap <Right> <ESC>:echoe "Use l"<CR>
 inoremap <Up>    <ESC>:echoe "Use k"<CR>
 inoremap <Down>  <ESC>:echoe "Use j"<CR>
 
+" Set line length ruler
+set colorcolumn=80
+
 " Enable four spaces indentation
 syntax enable
 set smartindent
