@@ -1,6 +1,7 @@
 # aliases
 alias ll="ls -lah"
 alias cdd="cd /home/pengyan/dev/"
+alias cdh="cd ~"
 alias gb="git branch"
 alias gs="git status"
 alias gp="git push origin"
