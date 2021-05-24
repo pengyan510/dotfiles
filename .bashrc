@@ -8,6 +8,7 @@ alias gp="git push origin"
 alias gco="git commit -am"
 alias gch="git checkout"
 alias gchb="git checkout -b"
+# for vim colorscheme to work with tmux
 alias tmux="TERM=screen-256color-bce tmux"
 
 # colors
