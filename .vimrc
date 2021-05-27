@@ -92,6 +92,9 @@ set expandtab
 " Enable 256 colors
 set t_Co=256
 
+" Aliases for commands
+cmap tn tabnew
+
 " NERDTree configuration
 nnoremap <C-n> :NERDTree<CR>
 let g:NERDTreeDirArrowExpandable = '>'
