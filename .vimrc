@@ -109,3 +109,4 @@ set noshowmode
 
 " delimitMate configuration
 let delimitMate_expand_cr=1
+au FileType markdown let b:delimitMate_nesting_quotes = ['`']
